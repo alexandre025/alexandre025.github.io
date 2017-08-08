@@ -15,6 +15,6 @@ Féru d'informatique depuis ma tendre enfance, j'ai naturellement décidé d'en 
 
 Mes différentes formations et mes expériences professionnelles me permettent aujourd'hui d'aborder un projet sur toutes ses étapes et de répondre aux problématiques de chacune : conception, réalisation, mise en production, maintenance. Ce qui fait de moi (en employant le terme à la mode) un développeur "full-stack", bien que je sois davantage stimulé par les problématiques back-end ainsi que tout ce qui touche au DevOps.
 
-## Dans la vie de tout les jours
+## Dans la vie de tous les jours
 
-Quand je ne travaille pas, vous pouvez me trouver à la salle de musculation, sur mon vélo de route ou sur le mmorpg World Of Warcraft. Je passe le reste de mon temps à lire, sortir... et tenter d'essayer de luter contre mon addiction aux séries tv.
+Quand je ne travaille pas, vous pouvez me trouver à la salle de musculation, sur mon vélo de route ou sur le mmorpg World Of Warcraft. Je passe le reste de mon temps à lire, sortir... et tenter d'essayer de lutter contre mon addiction aux séries tv.
