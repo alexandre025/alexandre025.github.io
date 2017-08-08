@@ -17,7 +17,7 @@ title: Alexandre Ferraille
 email: alexandre.ferraille@gmail.com
 phone: '+33750332563'
 description: > # this means to ignore newlines until "baseurl:"
-  Un projet ? Une offre ? Besoins d'un coup de main ? N'hésite pas à me contacter, je suis toujours à l'écoute de nouvelles opportunités ! ;)
+  Un projet ? Une offre ? Besoin d'un coup de main ? N'hésite pas à me contacter, je suis toujours à l'écoute de nouvelles opportunités ! ;)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://alexandre-ferraille.fr" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Alex_Ferraille
